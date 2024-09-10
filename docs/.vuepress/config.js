@@ -22,8 +22,14 @@ module.exports = {
 				collapsable: false,
 				sidebarDepth: 2,
 				children: [
-					'/2.java/java入门',
-					'/2.java/java上手',
+					{
+						text: 'java入门',
+                		link: '/2.java/java入门',
+					},
+					{
+						text: 'java上手',
+                		link: '/2.java/java上手',
+					},
 				]
 			},
 			{
@@ -32,8 +38,15 @@ module.exports = {
 				collapsable: false,
 				sidebarDepth: 2,
 				children: [
-					'/1.vue/vue入门',
-					'/1.vue/vue上手',
+					{
+						text: 'vue入门',
+                		link: '/1.vue/vue入门',
+					},
+					{
+						text: 'vue上手',
+                		link: '/1.vue/vue上手',
+					},
+					
 				]
 			},
 		]

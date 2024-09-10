@@ -4,7 +4,7 @@ heroImage: https://open.weixin.qq.com/qr/code?username=a_javaboy
 heroText: 江南一点雨
 tagline: Java 修炼手册
 actionText: 开始学习 →
-actionLink: /1.vue/vue入门/
+actionLink: ./1.vue/vue入门/
 features:
 - title: 纯原创
   details: 不做互联网的搬运工，松哥纯手敲，纯原创教程。

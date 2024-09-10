@@ -18,33 +18,31 @@ module.exports = {
         sidebar: [
 			{
 				title: 'Java',
-				path: '/2.java/',
 				collapsable: false,
 				sidebarDepth: 2,
 				children: [
 					{
 						text: 'java入门',
-                		link: '/2.java/java入门',
+                		link: '/2.java/java入门.md',
 					},
 					{
 						text: 'java上手',
-                		link: '/2.java/java上手',
+                		link: '/2.java/java上手.md',
 					},
 				]
 			},
 			{
 				title: 'vue',
-				path: '/1.vue/',
 				collapsable: false,
 				sidebarDepth: 2,
 				children: [
 					{
 						text: 'vue入门',
-                		link: '/1.vue/vue入门',
+                		link: '/1.vue/vue入门.md',
 					},
 					{
 						text: 'vue上手',
-                		link: '/1.vue/vue上手',
+                		link: '/1.vue/vue上手.md',
 					},
 					
 				]

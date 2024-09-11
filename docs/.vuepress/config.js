@@ -37,12 +37,12 @@ module.exports = {
 				link: '/1.vue/',
 				children: [
 					{
-						title: 'vue入门',
+						text: 'vue入门',
 						collapsable: false,
 						link: '/1.vue/vue入门.md',
 					},
 					{
-						title: 'vue上手',
+						text: 'vue上手',
 						collapsable: false,
 						link: '/1.vue/vue上手.md',
 					},

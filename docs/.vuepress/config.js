@@ -18,7 +18,7 @@ module.exports = {
         sidebar: {
 			'/2.java/': [
 				{
-					title: 'Java',
+					text: 'Java',
 					collapsable: true,
 					sidebarDepth: 2,
 					children: [
@@ -36,7 +36,7 @@ module.exports = {
 			],
 			'/1.vue/': [
 				{
-					title: 'vue',
+					text: 'vue',
 					collapsable: true,
 					sidebarDepth: 2,
 					children: [

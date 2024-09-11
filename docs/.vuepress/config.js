@@ -21,18 +21,7 @@ module.exports = {
 					title: 'Java',
 					collapsable: true,
 					sidebarDepth: 2,
-					children: [
-						{
-							title: 'java入门',
-							collapsable: false,
-							link: 'java入门.md',
-						},
-						{
-							title: 'java上手',
-							collapsable: false,
-							link: 'java上手.md',
-						},
-					]
+					children: ["java入门","java上手"]
 				}
 
 			],
@@ -41,19 +30,7 @@ module.exports = {
 					title: 'vue',
 					collapsable: true,
 					sidebarDepth: 2,
-					children: [
-						{
-							title: 'vue入门',
-							collapsable: false,
-							link: 'vue入门.md',
-						},
-						{
-							title: 'vue上手',
-							collapsable: false,
-							link: 'vue上手.md',
-						},
-
-					]
+					children: ["vue入门","vue上手"]
 				}
 			]
 		}

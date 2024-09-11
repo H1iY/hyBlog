@@ -18,16 +18,16 @@ module.exports = {
         sidebar: {
 			'/2.java/': [
 				{
-					text: 'Java',
+					title: 'Java',
 					collapsable: true,
 					sidebarDepth: 2,
 					children: [
 						{
-							text: 'java入门',
+							title: 'java入门',
 							link: 'java入门.md',
 						},
 						{
-							text: 'java上手',
+							title: 'java上手',
 							link: 'java上手.md',
 						},
 					]
@@ -36,16 +36,16 @@ module.exports = {
 			],
 			'/1.vue/': [
 				{
-					text: 'vue',
+					title: 'vue',
 					collapsable: true,
 					sidebarDepth: 2,
 					children: [
 						{
-							text: 'vue入门',
+							title: 'vue入门',
 							link: 'vue入门.md',
 						},
 						{
-							text: 'vue上手',
+							title: 'vue上手',
 							link: 'vue上手.md',
 						},
 

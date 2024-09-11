@@ -24,10 +24,12 @@ module.exports = {
 					children: [
 						{
 							title: 'java入门',
+							collapsable: false,
 							link: 'java入门.md',
 						},
 						{
 							title: 'java上手',
+							collapsable: false,
 							link: 'java上手.md',
 						},
 					]
@@ -42,10 +44,12 @@ module.exports = {
 					children: [
 						{
 							title: 'vue入门',
+							collapsable: false,
 							link: 'vue入门.md',
 						},
 						{
 							title: 'vue上手',
+							collapsable: false,
 							link: 'vue上手.md',
 						},
 

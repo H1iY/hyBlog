@@ -23,12 +23,12 @@ module.exports = {
 					{
 						text: 'java入门',
 						collapsable: false,
-						link: '/2.java/java入门.md',
+						link: '/java入门.md',
 					},
 					{
 						text: 'java上手',
 						collapsable: false,
-						link: '/2.java/java上手.md',
+						link: '/java上手.md',
 					},
 				]
 			},
@@ -39,12 +39,12 @@ module.exports = {
 					{
 						text: 'vue入门',
 						collapsable: false,
-						link: '/1.vue/vue入门.md',
+						link: '/vue入门.md',
 					},
 					{
 						text: 'vue上手',
 						collapsable: false,
-						link: '/1.vue/vue上手.md',
+						link: '/vue上手.md',
 					},
 
 				]

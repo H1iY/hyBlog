@@ -1,4 +1,3 @@
-import { defaultTheme } from 'vuepress'
 module.exports = {
 	base: '/hyBlog/', // 你的网站基础路径
 	title: '江南一点雨',

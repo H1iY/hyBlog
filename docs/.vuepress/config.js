@@ -15,24 +15,38 @@ module.exports = {
 				{text: '国内站', link: 'http://www.itboyhub.com'}
 			]}
         ],
-        sidebar: {
-			'/2.java/': [
-				{
-					title: 'Java',
-					collapsable: true,
-					sidebarDepth: 2,
-					children: ["java入门","java上手"]
-				}
+		sidebar:[
+			{
+				text: 'java',
+				link: '/2.java/',
+				children: [
+					{
+						text: 'java入门',
+						link: 'java入门.md',
+					},
+					{
+						text: 'java上手',
+						link: 'java上手.md',
+					},
+				]
+			},
+			{
+				text: 'vue',
+				link: '/1.vue/',
+				children: [
+					{
+						title: 'vue入门',
+						collapsable: false,
+						link: 'vue入门.md',
+					},
+					{
+						title: 'vue上手',
+						collapsable: false,
+						link: 'vue上手.md',
+					},
 
-			],
-			'/1.vue/': [
-				{
-					title: 'vue',
-					collapsable: true,
-					sidebarDepth: 2,
-					children: ["vue入门","vue上手"]
-				}
-			]
-		}
+				]
+			}
+		]
     },
 };

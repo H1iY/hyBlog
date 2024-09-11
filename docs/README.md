@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://open.weixin.qq.com/qr/code?username=a_javaboy
+heroImage: http://i0.hdslb.com/bfs/face/d48e4b6a8ad65da2bb0cbd212faced604f7d3262.jpg
 heroText: 林中一点夕
 tagline: 前端 修炼手册
 actionText: 开始学习 →

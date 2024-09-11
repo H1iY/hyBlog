@@ -2,10 +2,10 @@ module.exports = {
 	base: '/hyBlog/', // 你的网站基础路径
     title: '林中一点夕',
     head: [
-        ['link', {rel: 'icon', href: 'https://open.weixin.qq.com/qr/code?username=a_javaboy'}]
+        ['link', {rel: 'icon', href: 'http://i0.hdslb.com/bfs/face/d48e4b6a8ad65da2bb0cbd212faced604f7d3262.jpg'}]
     ],
     themeConfig: {
-        logo: 'https://open.weixin.qq.com/qr/code?username=a_javaboy',
+        logo: 'http://i0.hdslb.com/bfs/face/d48e4b6a8ad65da2bb0cbd212faced604f7d3262.jpg',
         nav: [ 
             {text: '首页', link: '/'},
 			{text: '国际站', link: 'http://www.javaboy.org'},

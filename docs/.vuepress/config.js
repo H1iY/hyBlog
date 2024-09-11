@@ -17,7 +17,7 @@ module.exports = {
         ],
 		sidebar:[
 			{
-				text: 'java',
+				title: 'java',
 				link: '/2.java/',
 				children: [
 					{
@@ -33,7 +33,7 @@ module.exports = {
 				]
 			},
 			{
-				text: 'vue',
+				title: 'vue',
 				link: '/1.vue/',
 				children: [
 					{

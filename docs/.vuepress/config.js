@@ -18,8 +18,7 @@ module.exports = {
         sidebar: [
 			{
 				title: 'Java',
-				path: '/2.java/',
-				collapsable: false,
+				collapsable: true,
 				sidebarDepth: 2,
 				children: [
 					'/2.java/java入门',
@@ -28,8 +27,7 @@ module.exports = {
 			},
 			{
 				title: 'vue',
-				path: '/1.vue/',
-				collapsable: false,
+				collapsable: true,
 				sidebarDepth: 2,
 				children: [
 					'/1.vue/vue入门',

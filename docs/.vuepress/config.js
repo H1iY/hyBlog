@@ -1,6 +1,6 @@
 module.exports = {
 	base: '/hyBlog/', // 你的网站基础路径
-    title: '江南一点雨',
+    title: '林中一点夕',
     head: [
         ['link', {rel: 'icon', href: 'https://open.weixin.qq.com/qr/code?username=a_javaboy'}]
     ],
